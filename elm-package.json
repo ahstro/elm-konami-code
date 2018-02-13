@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "summary": "Konami Code thingy",
+    "repository": "https://github.com/ahstro/elm-konami-code.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src/"
+    ],
+    "exposed-modules": [
+        "KonamiCode"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0",
+        "elm-lang/keyboard": "1.0.1 <= v < 2.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
